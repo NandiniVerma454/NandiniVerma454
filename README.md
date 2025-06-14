@@ -17,7 +17,7 @@ My Website : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <a href="https://nandini-verma-portfolio.vercel.app/">
   <img src="./assets/website.png" alt="My Website" width="400"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://g.dev/nandiniVerma">
-  <img src="./assets/Mine.png" alt="gDev" width="450"/>
+  <img src="./assets/Mine.png" alt="gDev" width="400"/>
 </a>
 
 <br>
