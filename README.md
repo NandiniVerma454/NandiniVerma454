@@ -15,9 +15,9 @@ My Website : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 
 <a href="https://nandini-verma-portfolio.vercel.app/">
-  <img src="./assets/website.png" alt="My Website" width="400"/>
+  <img src="./assets/website.png" alt="My Website" width="300"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://g.dev/nandiniVerma">
-  <img src="./assets/Mine.png" alt="gDev" width="400"/>
+  <img src="./assets/Mine.png" alt="gDev" width="300"/>
 </a>
 
 <br>
@@ -32,7 +32,9 @@ LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the
 
 ## 💡STATS ;)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniVerma454&layout=compact&theme=radical)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=NandiniVerma454&color=blue) &nbsp;&nbsp;&nbsp; ![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandiniVerma454&show_icons=true&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniVerma454&layout=compact&theme=radical)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=NandiniVerma454&color=blue) &nbsp;&nbsp;&nbsp;
+<br> 
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandiniVerma454&show_icons=true&theme=merko)
 <br>
 
 ## 🏆 GitHub Trophies  
