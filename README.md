@@ -15,15 +15,17 @@ My Website : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 
 <a href="https://nandini-verma-portfolio.vercel.app/">
-  <img src="./assets/website.png" alt="My Website" width="300"/>
+  <img src="./assets/website.png" alt="My Website" width="900"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <BR>
+<br>
 Google Developer Profile : 
+<br>
 <BR>
 <a href="https://g.dev/nandiniVerma">
-  <img src="./assets/Mine.png" alt="gDev" width="300"/>
+  <img src="./assets/Mine.png" alt="gDev" width="900"/>
 </a>
-
+<br>
 <br>
 
 LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp; [![LinkedIn Connections](https://img.shields.io/badge/LinkedIn%20Connections-2700+-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandiniverma_454/)  
