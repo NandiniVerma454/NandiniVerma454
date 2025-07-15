@@ -28,7 +28,7 @@ Google Developer Profile :
 <br>
 <br>
 
-LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp; [![LinkedIn Connections](https://img.shields.io/badge/LinkedIn%20Connections-2700+-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandiniverma_454/)  
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp; [![LinkedIn Connections](https://img.shields.io/badge/LinkedIn%20Connections-2800+-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandiniverma_454/)  
 <br> <br>
 ## 🚀 Languages and Tools  
 
