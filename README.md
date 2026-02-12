@@ -1,6 +1,8 @@
 <img src="./assets/banner.png"/>
 
-## Hi there 👋
+# Nandini Verma 👩‍💻
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Machine+Learning+Enthusiast;AI+%26+Data+Science+Explorer;General+Secretary+%7C+Technical+Society+SRMU;IEEE+Student+Branch+Secretary;Techfest+Organizer)
+
 - 🔭 I’m currently working on Projects on AI/ML & Data Science
 - 🌱 I’m currently pursuing Engineering (Final year)
 - 👯 I’m looking to collaborate on real world tech solution.
@@ -69,4 +71,10 @@ Google Developer Profile :
 ![Stars](https://img.shields.io/github/stars/NandiniVerma454?affiliations=OWNER&style=for-the-badge&color=yellow)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NandiniVerma454&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=green)
 ![Profile Views](https://komarev.com/ghpvc/?username=NandiniVerma454&style=for-the-badge&color=brightgreen)
+
+<br>
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NandiniVerma454&theme=tokyonight)
+
+
 
