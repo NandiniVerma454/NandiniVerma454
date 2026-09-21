@@ -14,7 +14,7 @@
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/)
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nandiniverma_454) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NVerma76815)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniambiverma@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
