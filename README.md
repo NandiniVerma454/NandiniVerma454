@@ -3,8 +3,8 @@
 # Nandini Verma 👩‍💻
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Machine+Learning+Enthusiast;AI+%26+Data+Science+Explorer;General+Secretary+%7C+Technical+Society+SRMU;IEEE+Student+Branch+Secretary;Techfest+Organizer)
 
-- 🔭 I’m currently working on Projects on AI/ML & Data Science
-- 🌱 I’m currently pursuing Engineering (Final year)
+- 🔭 I’m currently working on Projects based on AI/ML, Data Science & Cybersecurity
+- 🌱 Computer Science Engineering Graduate
 - 👯 I’m looking to collaborate on real world tech solution.
 - 📫 How to reach me: nandiniambiverma@gmail.com
 - 😄 Pronouns: she/her ;)
@@ -13,13 +13,15 @@
 
 ## 🌐 Connect with me  
 
-My Website : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/)
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NVerma76815)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniambiverma@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nandiniverma6398)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Nandini_Verma_4)
 
 
-<a href="https://nandini-verma-portfolio.vercel.app/">
-  <img src="./assets/website.png" alt="My Website" width="900"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<BR>
 <br>
 Google Developer Profile : 
 <br>
@@ -30,22 +32,12 @@ Google Developer Profile :
 <br>
 <br>
 
- ## Social : 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nandini-verma-4n5v4/)
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NVerma76815)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nandini-verma-portfolio.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandiniambiverma@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nandiniverma6398)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Nandini_Verma_4)
 
 
 
-</a>
 
 
-<br> <br>
+
 ## 🚀 Languages and Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  &nbsp;  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  &nbsp;  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) &nbsp;  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  &nbsp;  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp;  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  &nbsp;  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
